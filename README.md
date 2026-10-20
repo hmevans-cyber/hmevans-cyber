@@ -1,7 +1,3 @@
-## Hi there 👋
-
-<!--
-**hmevans-cyber/hmevans-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 # Hi, I'm Hannah! 👋🏽
 
@@ -82,7 +78,7 @@ I'm passionate about strengthening information systems, managing cybersecurity r
 
 ## 🤝 Connect With Me
 
-- **LinkedIn:** tbd
+- **LinkedIn:** linkedin.com/in/hannahm-evans
 - **Email:** hannahme908@gmail.com
 
 *Building practical cybersecurity skills through hands-on labs, technical projects, and continuous learning.*
