@@ -17,7 +17,7 @@ I'm passionate about strengthening information systems, managing cybersecurity r
 
 ### ✅ Existing Projects
 
-- **Password Strength Checker** — Python-based password strength evaluation tool.
+- **[Password Strength Checker](https://github.com/hmevans-cyber/01-password-strength-checker)** — Python-based password strength evaluation tool.
 
 ### 🚧 Projects in Development
 
