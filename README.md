@@ -31,15 +31,35 @@ I'm passionate about strengthening information systems, managing cybersecurity r
 
 ---
 
+
 ## 🛠️ Technical Skills
 
-**Programming & Analytics:** Python, SQL, Power BI, Excel
+### 💻 Programming & Development
 
-**Information Systems:** Database Management, Systems Analysis, Business Intelligence
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-**Cybersecurity:** Network Traffic Analysis, Security Fundamentals, Risk Assessment
+### 📊 Data Analytics & Business Intelligence
 
-**Currently Developing:** SIEM, Incident Response, Digital Forensics, Vulnerability Management, AI Governance
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge)
+![SAS Viya](https://img.shields.io/badge/SAS_Viya-0067A0?style=for-the-badge)
+![RapidMiner](https://img.shields.io/badge/RapidMiner-FF6600?style=for-the-badge)
+
+### 🏢 Enterprise & Productivity Technologies
+
+![Power Platform](https://img.shields.io/badge/Microsoft_Power_Platform-742774?style=for-the-badge)
+![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge)
+
+### 🔐 Cybersecurity Tools
+
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-415A77?style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-333333?style=for-the-badge&logo=linux&logoColor=white)
 
 ---
 
